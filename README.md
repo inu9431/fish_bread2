@@ -20,8 +20,7 @@ Python의 기본 문법과 클래스 구조, 입출력 처리에 익숙해지기
 
 ## 🖼 실행 화면 예시
 
-![Image](https://github.com/user-attachments/assets/03a4d7fb-4a5e-4d70-a560-7cd1ab08d904)
-
+![Image](https://github.com/user-attachments/assets/009ea98c-25fd-4f50-a7fc-f3e5efd00601)
 ---
 
 ## 📁 디렉터리 구조
